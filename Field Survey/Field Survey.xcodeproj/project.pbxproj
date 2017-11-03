@@ -91,7 +91,6 @@
 		342E399A1FA8E6EA0092FB07 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				342E399D1FA8E7B60092FB07 /* field_observations.json */,
 				342E399F1FA8E8ED0092FB07 /* Classification.swift */,
 				342E39A11FA8EB750092FB07 /* Observation.swift */,
 				342E39A31FA8F0F20092FB07 /* FieldObservationsJSONParser.swift */,
@@ -123,6 +122,7 @@
 		34CE078C1FA8E0EE00B878A0 /* Field Survey */ = {
 			isa = PBXGroup;
 			children = (
+				342E399D1FA8E7B60092FB07 /* field_observations.json */,
 				342E399A1FA8E6EA0092FB07 /* Model */,
 				34CE078D1FA8E0EE00B878A0 /* AppDelegate.swift */,
 				34CE07911FA8E0EE00B878A0 /* Main.storyboard */,

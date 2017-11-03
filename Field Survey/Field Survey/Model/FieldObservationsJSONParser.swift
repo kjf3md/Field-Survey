@@ -24,7 +24,7 @@ class FieldObservationsJSONParser {
                 for observation in observationsFromJSON {
                     if let observation = observation as? [String: String] {
                         if let classification = observation["classification"],
-                            let title = observation["matchup"],
+                            let title = observation["title"],
                             let description = observation["description"],
                             let dateString = observation["date"],
                             let date = dateFormatter.date(from: dateString) {
