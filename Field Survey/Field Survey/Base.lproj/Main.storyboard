@@ -162,7 +162,6 @@
                     <connections>
                         <outlet property="dateLabel" destination="yY5-Rv-cQf" id="pCN-Q7-HLu"/>
                         <outlet property="descriptionTextArea" destination="QNQ-sh-AUc" id="3TO-9q-ixG"/>
-                        <outlet property="detailTextArea" destination="QNQ-sh-AUc" id="UDx-xb-LuV"/>
                         <outlet property="fieldObservationIconImageView" destination="NjO-e8-LtB" id="6Ad-TQ-0qU"/>
                         <outlet property="titleLabel" destination="EHa-Vl-uxs" id="tQh-6n-HPr"/>
                     </connections>
